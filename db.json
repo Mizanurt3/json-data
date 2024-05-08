@@ -1,0 +1,30 @@
+{
+    "superheros":[
+        {
+            "id":1,
+            "title":"Mizanur",
+            "content":"Mizanuru contect"
+        },
+        {
+            "id":2,
+            "title":"sumon",
+            "content":"sumon contect"
+        },
+        {
+            "id":3,
+            "title":"lotifa",
+            "content":"lotifa contect"
+        },
+        {
+            "id":4,
+            "title":"sobuj",
+            "content":"sobuj contect"
+        },
+        {
+            "id":5,
+            "title":"pasha",
+            "content":"pasha contect"
+        }
+        
+    ]
+}
